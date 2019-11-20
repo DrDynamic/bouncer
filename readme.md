@@ -806,7 +806,6 @@ php artisan make:seeder BouncerSeeder
 Place all of your seeding roles & abilities code in [the seeder's `run` method](https://github.com/laravel/framework/blob/f50e2004dfa40de895cd841a0a94acef5b417900/src/Illuminate/Database/Console/Seeds/stubs/seeder.stub#L12-L15). Here's an example of what that might look like:
 
 ```php
-use Bouncer;
 use Illuminate\Database\Seeder;
 
 class BouncerSeeder extends Seeder
